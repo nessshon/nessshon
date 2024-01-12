@@ -24,11 +24,18 @@
         </table>
     </td>
     <table>
-        <tr>
-            <td><img src="https://img.shields.io/badge/TON-grey?logo=TON&logoColor=40AEF0&style=flat-square&color=0D1117"/></td>
-            <td><img src="https://img.shields.io/badge/Python-grey?logo=python&logoColor=3776AB&style=flat-square&color=0D1117" alt="Python"></td>
-            <td><img src="https://img.shields.io/badge/Bot-grey?logo=telegram&style=flat-square&color=0D1117"></td>
-        </tr>
+            <td>
+                <img src="img/ton.svg" width="16" height="16" style="vertical-align: middle;">
+                <text font-size="16" fill="#0074cc" style="vertical-align: middle; alignment-baseline: middle;">TON</text>
+            </td>
+            <td>
+                <img src="img/python.svg" width="16" height="16" style="vertical-align: middle;">
+                <text font-size="12" fill="#0074cc" style="vertical-align: middle; alignment-baseline: middle;">Python</text>
+            </td>
+            <td>
+                <img src="img/telegram.svg" width="16" height="16" style="vertical-align: middle;">
+                <text font-size="12" fill="#0074cc" style="vertical-align: middle; alignment-baseline: middle;">Bot</text>
+            </td>
     </table>
     <img src="https://komarev.com/ghpvc/?username=nessshon&color=0D1117&style=flat-square"/>
 </div>
