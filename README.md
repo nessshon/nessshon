@@ -12,12 +12,6 @@
     <td>
         <table>
             <tr>
-                <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nessshon&theme=transparent" alt="Repos per Language"></td>
-                <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nessshon&theme=transparent" alt="Most Commit Language"></td>
-            </tr>
-        </table>
-        <table>
-            <tr>
                 <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nessshon&theme=transparent" alt="Stats"></td>
                 <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nessshon&theme=transparent&utcOffset=5" alt="Productive Time"></td>
             </tr>
