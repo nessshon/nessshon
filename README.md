@@ -33,8 +33,7 @@
 
 ## ☕ Support the Developer
 
-If you enjoy using my projects or find them helpful,  
-you’re welcome to support me — totally optional and always appreciated 🙌
+If you enjoy using my projects or find them helpful, you’re welcome to support me — totally optional and always appreciated 🙌
 
 ### 🎯 I'm currently saving for the domain `ness.ton`
 
@@ -56,5 +55,4 @@ you’re welcome to support me — totally optional and always appreciated 🙌
 
 </details>
 
-Thanks for using my work —  
-your support means a lot and helps me keep building cool things 🚀
+Thanks for using my work - your support means a lot and helps me keep building cool things 🚀
