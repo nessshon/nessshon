@@ -30,3 +30,31 @@
     </table>
     <img src="https://komarev.com/ghpvc/?username=nessshon&color=0D1117&style=flat-square"/>
 </div>
+
+## ☕ Support the Developer
+
+If you enjoy using my projects or find them helpful,  
+you’re welcome to support me — totally optional and always appreciated 🙌
+
+### 🎯 I'm currently saving for the domain `ness.ton`
+
+**Goal: 100 TON**
+
+```text
+📦 Progress: [░░░░░░░░░░░░░░░░░░░░] 0 / 100 TON
+```
+
+**TON wallet for donations:**  
+`UQCZq3_Vd21-4y4m7Wc-ej9NFOhh_qvdfAkAYAOHoQ__Ness`
+
+<details>
+<summary>💖 Supporters</summary>
+
+| 💎 Name / Address | 💰 Amount (TON) |
+|-------------------|-----------------|
+| Your name here?   | 😊              |
+
+</details>
+
+Thanks for using my work —  
+your support means a lot and helps me keep building cool things 🚀
