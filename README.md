@@ -39,6 +39,7 @@ If you enjoy using my projects or find them helpful, you’re welcome to support
 
 **Goal: 100 TON**
 
+🕓 Started: Apr 18, 2025 — end date TBD
 > 📦 Progress: [░░░░░░░░░░░░░░░░░░░░] 0 / 100 TON
 
 **TON wallet for donations:**  
