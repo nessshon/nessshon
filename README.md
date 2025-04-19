@@ -48,9 +48,9 @@ If you enjoy using my projects or find them helpful, you’re welcome to support
 <details>
 <summary>💖 Supporters</summary>
 
-| 💎 Name / Address | 💰 Amount (TON) |
-|-------------------|-----------------|
-| Your name here?   | 😊              |
+| 💎 Name / Address | 💰 Amount     |
+|-------------------|---------------|
+| vtonsdk.t.me      | 5 USD₮        |
 
 </details>
 
