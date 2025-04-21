@@ -40,7 +40,7 @@ If you enjoy using my projects or find them helpful, you’re welcome to support
 **Goal: 100 TON**
 
 🕓 Started: Apr 18, 2025 — end date TBD
-> 📦 Progress: [█░░░░░░░░░░░░░░░░░░░] 1.6 / 100 TON
+> 📦 Progress: [██░░░░░░░░░░░░░░░░░░] 11.68 / 100 TON
 
 **TON wallet for donations:**  
 `UQCZq3_Vd21-4y4m7Wc-ej9NFOhh_qvdfAkAYAOHoQ__Ness`
@@ -48,9 +48,10 @@ If you enjoy using my projects or find them helpful, you’re welcome to support
 <details>
 <summary>💖 Supporters</summary>
 
-| 💎 Name / Address | 💰 Amount     |
-|-------------------|---------------|
-| vtonsdk.t.me      | 5 USD₮        |
+| 💎 Name / Address | 💰 Amount (TON) |
+|-------------------|-----------------|
+| cron              | 10              |
+| vtonsdk.t.me      | 1.68 (5 USD₮)   |
 
 </details>
 
