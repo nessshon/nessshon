@@ -45,14 +45,11 @@ If you enjoy using my projects or find them helpful, you’re welcome to support
 **TON wallet for donations:**  
 `UQCZq3_Vd21-4y4m7Wc-ej9NFOhh_qvdfAkAYAOHoQ__Ness`
 
-<details>
-<summary>💖 Supporters</summary>
+**💖 Supporters**
 
 | 💎 Name / Address | 💰 Amount (TON) |
 |-------------------|-----------------|
 | cron              | 10              |
 | vtonsdk.t.me      | 1.68 (5 USD₮)   |
-
-</details>
 
 Thanks for using my work - your support means a lot and helps me keep building cool things 🚀
