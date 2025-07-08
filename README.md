@@ -1,4 +1,14 @@
 <div align="center">
+
+<b>Backend Developer | Python | TON Blockchain | Dev Tools | Open Source Contributor</b><br><br>
+
+I'm a backend engineer specializing in Python and developer tools. Passionate about building and optimizing backend solutions, as well as creating open-source tools that help other developers work faster and more efficiently. Always open to collaboration on interesting projects.
+
+</div>
+
+---
+
+<div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessshon&theme=transparent" alt="Profile">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nessshon/nessshon/output/github-contribution-grid-snake-dark.svg" />
