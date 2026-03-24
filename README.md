@@ -8,12 +8,6 @@ Always open to collaboration on interesting projects.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nessshon&style=flat-square&label=Views&color=0D1117"/>
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fnessshon&style=flat-square&color=0D1117"/>
-<img src="https://img.shields.io/github/followers/nessshon?style=flat-square&label=Followers&color=0D1117"/>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nessshon/nessshon/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nessshon/nessshon/output/github-contribution-grid-snake.svg"/>
